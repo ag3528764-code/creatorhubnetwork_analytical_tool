@@ -1,0 +1,7 @@
+{
+  "selected_model": "Random Forest",
+  "selection_metric": "F1-Score",
+  "train_size": 4000,
+  "test_size": 1000,
+  "random_state": 42
+}

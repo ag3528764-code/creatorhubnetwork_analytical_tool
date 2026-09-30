@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.vscode/
+.idea/
+*.log
+data/raw/*.csv
+data/processed/*.csv
+data/predictions/*.csv
+models/*.pkl
+reports/figures/*.png
+reports/figures/*.csv
